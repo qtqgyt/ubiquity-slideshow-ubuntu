@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (187) UNRELEASED; urgency=medium
+
+  [ Erich Eickmeyer ]
+  * Bring back Edubuntu slideshow (LP: #2008731)
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Tue, 28 Feb 2023 17:18:26 -0800
+
 ubiquity-slideshow-ubuntu (186) kinetic; urgency=medium
 
   * Update translations from Launchpad
