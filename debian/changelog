@@ -1,9 +1,17 @@
-ubiquity-slideshow-ubuntu (187) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (188) UNRELEASED; urgency=medium
 
   [ Erich Eickmeyer ]
   * Bring back Edubuntu slideshow (LP: #2008731)
 
  -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Tue, 28 Feb 2023 17:18:26 -0800
+
+ubiquity-slideshow-ubuntu (187) kinetic; urgency=medium
+
+  [ Sean Davis ]
+  * Update xubuntu translations from
+    https://github.com/Xubuntu/ubiquity-slideshow-xubuntu
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Tue, 11 Oct 2022 16:36:55 +0200
 
 ubiquity-slideshow-ubuntu (186) kinetic; urgency=medium
 
