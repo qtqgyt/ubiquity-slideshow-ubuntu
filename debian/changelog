@@ -3,7 +3,10 @@ ubiquity-slideshow-ubuntu (188) UNRELEASED; urgency=medium
   [ Erich Eickmeyer ]
   * Bring back Edubuntu slideshow (LP: #2008731)
 
- -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Tue, 28 Feb 2023 17:18:26 -0800
+  [ Sebastien Bacher ]
+  * Updated Ubuntu wallpapers for Lunar
+
+ -- Sebastien Bacher <seb128@ubuntu.com>  Tue, 14 Mar 2023 21:05:30 +0100
 
 ubiquity-slideshow-ubuntu (187) kinetic; urgency=medium
 
