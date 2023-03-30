@@ -2,6 +2,7 @@ ubiquity-slideshow-ubuntu (190) UNRELEASED; urgency=medium
 
   * Update Ubuntu translations from Launchpad.
   * Use python3 at build time, not python2.
+  * Fix VCS metadata.
 
  -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 30 Mar 2023 07:27:55 -0700
 

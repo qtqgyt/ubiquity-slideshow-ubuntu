@@ -4,7 +4,7 @@ Priority: optional
 Maintainer: Ubiquity Slideshow Team <ubiquity-slideshow@lists.launchpad.net>
 Build-Depends: debhelper-compat (= 12)
 Build-Depends-Indep: po4a, python3
-Vcs-Bzr: https://code.launchpad.net/~ubiquity-slideshow/ubiquity-slideshow-ubuntu/html
+Vcs-Git: https://git.launchpad.net/ubiquity-slideshow-ubuntu
 Standards-Version: 4.5.0
 Homepage: https://launchpad.net/ubiquity-slideshow-ubuntu
 
