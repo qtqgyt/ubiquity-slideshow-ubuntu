@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (190) UNRELEASED; urgency=medium
+
+  * Update Ubuntu translations from Launchpad.
+
+ -- Steve Langasek <steve.langasek@ubuntu.com>  Thu, 30 Mar 2023 07:27:55 -0700
+
 ubiquity-slideshow-ubuntu (189) lunar; urgency=medium
 
   * Updated music screenshot
