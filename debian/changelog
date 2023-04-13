@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (191) UNRELEASED; urgency=medium
+
+  * For the ubuntukylin slideshow remove the stablekernel page and reorder the
+    display of slides in the slideshow.
+
+ -- Brian Murray <brian@ubuntu.com>  Thu, 13 Apr 2023 11:50:09 -0700
+
 ubiquity-slideshow-ubuntu (190) lunar; urgency=medium
 
   [ Steve Langasek ]
