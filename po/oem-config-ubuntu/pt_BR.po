@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2016-05-12 14:59+0000\n"
-"Last-Translator: Rafael Neri <Unknown>\n"
+"PO-Revision-Date: 2022-10-28 06:39+0000\n"
+"Last-Translator: Maxalciz102030 <Unknown>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-10-10 16:20+0000\n"
-"X-Generator: Launchpad (build 762fb15a975e8b23af6a1f86e44e46bfd0451459)\n"
+"X-Launchpad-Export-Date: 2023-04-13 18:16+0000\n"
+"X-Generator: Launchpad (build 87e01a184063d9dc53acb2343d6484f5546064fd)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/accessibility.html:1
@@ -91,7 +91,7 @@ msgstr "Navegador Firefox"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/browse.html:20
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/browse.html:23
@@ -117,6 +117,10 @@ msgid ""
 "href=\"https://help.ubuntu.com\">online</a> and via the Help icon in the "
 "Dock."
 msgstr ""
+"A <span class=\"app\" data-app=\"docs\">documentação oficial</span> cobre "
+"muitas das áreas mais comuns sobre o Ubuntu. Está disponível tanto <a "
+"href=\"https://help.ubuntu.com\">online</a> quanto através do ícone de Ajuda "
+"no Dock."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu/slides/gethelp.html:12
@@ -166,17 +170,17 @@ msgstr "Reprodutor de músicas Rhythmbox"
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu/slides/music.html:18
 msgid "Available software"
-msgstr ""
+msgstr "Software disponível"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:22
 msgid "Spotify"
-msgstr ""
+msgstr "Spotify"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/music.html:26
 msgid "VLC"
-msgstr ""
+msgstr "VLC"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/office.html:1
@@ -223,6 +227,10 @@ msgid ""
 "keep them safe. And if you’re feeling creative, you can find many other "
 "photo apps in Ubuntu Software."
 msgstr ""
+"Shotwell é um gerenciador de fotos útil que está pronto para seus aparelhos. "
+"Conecte uma câmera ou um celular para transferir suas fotos, então é fácil "
+"compartilhá-las e mantê-las seguras. E se você estiver se sentindo criativo, "
+"você pode encontrar muitos outros aplicativos de fotos na Ubuntu Software."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:16
@@ -237,7 +245,7 @@ msgstr "Editor de imagens GIMP"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu/slides/photos.html:27
 msgid "Shotcut Video Editor"
-msgstr ""
+msgstr "Editor de vídeo Shotcut"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu/slides/usc.html:1

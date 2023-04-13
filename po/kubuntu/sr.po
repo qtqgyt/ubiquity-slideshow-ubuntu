@@ -7,15 +7,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2020-02-13 09:49+0000\n"
+"PO-Revision-Date: 2023-04-05 18:45+0000\n"
 "Last-Translator: Саша Петровић <salepetronije@gmail.com>\n"
 "Language-Team: српски <gnome-sr@googlegroups.org>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-10-10 16:12+0000\n"
-"X-Generator: Launchpad (build 762fb15a975e8b23af6a1f86e44e46bfd0451459)\n"
+"X-Launchpad-Export-Date: 2023-04-13 18:16+0000\n"
+"X-Generator: Launchpad (build 87e01a184063d9dc53acb2343d6484f5546064fd)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -123,12 +123,12 @@ msgstr "Менаџер фајлова"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
 msgid "KDE Connect"
-msgstr ""
+msgstr "КДЕ веза"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
 msgid "Mobile Connect"
-msgstr ""
+msgstr "Повезивање мобилног"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
@@ -143,12 +143,12 @@ msgstr "Извођач медија"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Spectacle"
-msgstr ""
+msgstr "Спектакл"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:46
 msgid "Screenshot Tool"
-msgstr ""
+msgstr "Прибор за сликање радне површи"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
@@ -164,173 +164,173 @@ msgstr "Софтверски Центар"
 #: slideshows/kubuntu/slides/02_QT.html:3
 #: slideshows/kubuntu/slides/03_GTK.html:3
 msgid "Looking for more awesome applications?"
-msgstr ""
+msgstr "Да ли тражите још одличних програма?"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/02_QT.html:7
 #: slideshows/kubuntu/slides/03_GTK.html:7
 msgid "All of these applications are installable from Discover."
-msgstr ""
+msgstr "Сви ови програми су уградиви из Дисковера."
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:12
 msgid "Kdenlive"
-msgstr ""
+msgstr "Кденлајв"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:13
 msgid "Video Editor"
-msgstr ""
+msgstr "Уредник видеа"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:17
 msgid "digiKam"
-msgstr ""
+msgstr "Дигикам"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:18
 msgid "Photo Manager"
-msgstr ""
+msgstr "Уредник слика"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:22
 msgid "Krita"
-msgstr ""
+msgstr "Крита"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:23
 msgid "Digital Printing"
-msgstr ""
+msgstr "Дигитално тискање"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:27
 msgid "Kdevelop"
-msgstr ""
+msgstr "Кдевелоп"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:28
 msgid "Development IDE"
-msgstr ""
+msgstr "Развојно окружење"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:34
 msgid "GCompris"
-msgstr ""
+msgstr "Гкомприс"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:35
 msgid "Educational Suite"
-msgstr ""
+msgstr "Учевна збирка програма"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:39
 msgid "Minuet"
-msgstr ""
+msgstr "Минует"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:40
 msgid "Music Education"
-msgstr ""
+msgstr "Уџбеник музички"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:44
 msgid "Peruse"
-msgstr ""
+msgstr "Перусе"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:45
 msgid "Comic Reader"
-msgstr ""
+msgstr "Читач стрипова"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:49
 msgid "Labplot"
-msgstr ""
+msgstr "Лабплоп"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:50
 msgid "Data Visualization"
-msgstr ""
+msgstr "Престављање података"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:12
 msgid "Blender"
-msgstr ""
+msgstr "Блендер"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:13
 msgid "3D Graphics"
-msgstr ""
+msgstr "Просторна графика"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:17
 msgid "GIMP"
-msgstr ""
+msgstr "Гимп"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:18
 msgid "Graphics Editor"
-msgstr ""
+msgstr "Уредник слика"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:22
 msgid "Inkscape"
-msgstr ""
+msgstr "Инкскејп"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:23
 msgid "SVG Editor"
-msgstr ""
+msgstr "Уредник СВГ-а"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:27
 msgid "Darktable"
-msgstr ""
+msgstr "Дарктабла"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:28
 msgid "RAW Editor"
-msgstr ""
+msgstr "Уредник РАВ"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:34
 msgid "Steam"
-msgstr ""
+msgstr "Стим"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:35
 msgid "Gaming Platform"
-msgstr ""
+msgstr "Играчко постоље"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:39
 msgid "OBS"
-msgstr ""
+msgstr "ОБС"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:40
 msgid "Broadcasting Software"
-msgstr ""
+msgstr "Програм за одашиљање"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:44
 msgid "Thunderbird"
-msgstr ""
+msgstr "Тандрк-птица"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:45
 msgid "Email Client"
-msgstr ""
+msgstr "Поштанска странка"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:49
 msgid "VirtualBox"
-msgstr ""
+msgstr "Виртуелна кутија"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:50
 msgid "Virtualization Software"
-msgstr ""
+msgstr "Програм за опонашање рачунарства"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Help.html:3
@@ -392,7 +392,7 @@ msgstr "Прикључите се Кубунтуу"
 #. type: Attribute 'alt' of: <div><div><img>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:7
 msgid "breeze users icon"
-msgstr ""
+msgstr "корисничке сличице бриз"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/05_Get-Involved.html:12

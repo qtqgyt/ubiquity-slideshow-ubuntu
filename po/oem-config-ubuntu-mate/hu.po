@@ -1,28 +1,29 @@
-# Hungarian translation for ubiquity-slideshow-ubuntu
-# Copyright (c) 2016 Rosetta Contributors and Canonical Ltd 2016
+# Hungarian translation for Ubuntu MATE Slideshow.
+# Copyright (c) 2016, 2023 Rosetta Contributors and Canonical Ltd 2016
 # This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
 #
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2016.
 # Gabor Kelemen <kelemeng at ubuntu dot com>, 2016.
+# Balázs Úr <ur.balazs at fsf dot hu>, 2023.
 msgid ""
 msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/ubuntu/+source/ubiquity-"
+"slideshow-ubuntu\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2016-03-31 15:30+0000\n"
-"Last-Translator: Gabor Kelemen <kertitorp@gmail.com>\n"
-"Language-Team: Hungarian <openscope at googlegroups dot com>\n"
+"PO-Revision-Date: 2023-04-13 09:24+0000\n"
+"Last-Translator: Balázs Úr <Unknown>\n"
+"Language-Team: Hungarian <openscope at fsf dot hu>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2022-10-10 16:20+0000\n"
-"X-Generator: Launchpad (build 762fb15a975e8b23af6a1f86e44e46bfd0451459)\n"
+"X-Launchpad-Export-Date: 2023-04-13 18:16+0000\n"
+"X-Generator: Launchpad (build 87e01a184063d9dc53acb2343d6484f5546064fd)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:3
 msgid "Welcome to Ubuntu MATE"
-msgstr "Üdvözöljük az Ubuntu MATE-ban"
+msgstr "Üdvözli az Ubuntu MATE!"
 
 #. type: Content of: <div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/01_welcome.html:4
@@ -45,6 +46,10 @@ msgid ""
 "desktop environment. Ideal for those who want the most out of their "
 "computers and prefer a traditional desktop metaphor."
 msgstr ""
+"Az Ubuntu MATE egy stabil, egyszerűen használható operációs rendszer, "
+"konfigurálható asztali környezettel. Ideális azok számára, akik a legtöbbet "
+"szeretnék kihozni a számítógépükből, és a hagyományos asztali megjelenést "
+"részesítik előnyben."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:11
@@ -52,6 +57,8 @@ msgid ""
 "With modest hardware requirements it is suitable for modern workstations, "
 "single board computers and older hardware alike."
 msgstr ""
+"Szerény hardverigénye miatt alkalmas modern munkaállomásokhoz, egylapos "
+"számítógépekhez és régebbi hardverekhez egyaránt."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/02_about.html:17
@@ -60,11 +67,15 @@ msgid ""
 "user interface with one-click to something more modern or something that you "
 "might be more familiar with via <strong>MATE Tweak</strong>."
 msgstr ""
+"A más operációs rendszerekről érkező felhasználók számára az Ubuntu MATE a "
+"<strong>MATE Tweak</strong> segítségével egyetlen kattintással át tudja "
+"alakítani a felhasználói felületet valami modernebbre vagy valami olyasmire, "
+"amelyet jobban ismerhet."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:2
 msgid "Get up and running faster"
-msgstr ""
+msgstr "Gyorsabb üzembe helyezés és működés"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:7
@@ -78,6 +89,14 @@ msgid ""
 "tools. When you need help Ubuntu MATE Welcome is the jumping off point to "
 "the community."
 msgstr ""
+"Az Ubuntu MATE Welcome üdvözli és segíti az új és visszatérő felhasználókat. "
+"A <strong>Kezdeti lépések</strong> varázsló végigvezeti Önt a telepítés "
+"utáni első rendszerindítás beállításán, valamint a további perifériák és "
+"eszközök beállításán, a dokumentáció pedig segít eligazodni az új "
+"felhasználóknak. A <strong>Rendszer-specifikációk</strong> szakasz segít a "
+"hardver felfedezésében, és számos hasznos rendszerfelügyeleti eszköz egy "
+"kattintással történő telepítését kínálja. Ha segítségre van szüksége, az "
+"Ubuntu MATE Welcome a közösséghez vezető ugródeszka."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/03_getting_started.html:18
@@ -99,7 +118,7 @@ msgstr "Ubuntu MATE Welcome"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:2
 msgid "Find the best software"
-msgstr ""
+msgstr "Találja meg a legjobb szoftvert"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:7
@@ -111,11 +130,18 @@ msgid ""
 "Experienced users can simply queue up all their favourite software for "
 "install and process it in one operation."
 msgstr ""
+"Intsen búcsút az új szoftverek internetes keresgélésének. Az Ubuntu MATE "
+"rendszerhez rengeteg szoftver áll rendelkezésre, és egyesek számára ez a "
+"választék túlterhelő. A <strong>Szoftverbutik</strong> egy gondosan "
+"összeállított válogatás az Ubuntu MATE rendszert kiegészítő, a "
+"kategóriájában legjobb alkalmazásokból. A tapasztalt felhasználók egyszerűen "
+"beállíthatják az összes kedvenc szoftverük egymás utáni telepítését, és egy "
+"művelettel feldolgozhatják azokat."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:20
 msgid "Software Boutique"
-msgstr ""
+msgstr "Szoftverbutik"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:23
@@ -128,12 +154,12 @@ msgstr "Támogatott szoftverek"
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/04_software.html:27
 msgid "Ubuntu Software"
-msgstr ""
+msgstr "Ubuntu Szoftver"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:2
 msgid "Personalised computing"
-msgstr ""
+msgstr "Személyre szabott számítástechnika"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:7
@@ -148,11 +174,22 @@ msgid ""
 "<strong>Comptemporary</strong>. Experienced users can customise the user "
 "interface and save their creations."
 msgstr ""
+"Az alapértelmezett Ubuntu MATE felhasználói felület intuitív és egyszerűen "
+"használható. De megértjük, hogy az emberek ízlése és preferenciái eltérőek, "
+"ezért létrehoztuk a <strong>MATE Tweak</strong> eszközt, amellyel "
+"megváltoztathatja a felhasználói felületet, hogy más operációs rendszerekre "
+"hasonlíthasson. Windowsról érkezik? Próbálja ki a <strong>Redmond</strong> "
+"témát. Jobban tetszik a macOS elrendezése? Próbálja ki a <strong>Cupertino</"
+"strong> témát. Az Ubuntu Unity rajongók számára elérhető a <strong>Mutiny</"
+"strong>. Vessen egy pillantást rá! A hibrid felhasználó felületekért "
+"próbálja ki a <strong>Pantheon</strong> vagy <strong>Comptemporary</strong> "
+"lehetőségeket. A tapasztalt felhasználók személyre szabhatják a felhasználói "
+"felületet és elmenthetik alkotásaikat."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/05_tweak.html:23
 msgid "MATE Tweak"
-msgstr ""
+msgstr "MATE Tweak"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:2
@@ -169,16 +206,23 @@ msgid ""
 "<strong>Google Chrome</strong>, <strong>Opera</strong> and <strong>Vivaldi</"
 "strong> in the Software Boutique."
 msgstr ""
+"Az Ubuntu MATE tartalmazza a <strong>Firefoxot</strong>, egy egyszerű és "
+"biztonságos webböngészőt, amelyet emberek milliói használnak világszerte. Az "
+"adatvédelmet szem előtt tartva fejlesztett biztonsági funkciókat tartalmaz, "
+"hogy megvédje Önt az online fenyegetésektől. Megtalálhatja még a "
+"<strong>Brave</strong>, a <strong>Chromium</strong>, a <strong>Google "
+"Chrome</strong>, az <strong>Opera</strong> és a <strong>Vivaldi</strong> "
+"böngészőket is a Szoftverbutikban."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:20
 msgid "Firefox"
-msgstr ""
+msgstr "Firefox"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:24
 msgid "Evolution"
-msgstr ""
+msgstr "Evolution"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/06_browse.html:31
@@ -188,7 +232,7 @@ msgstr "Chromium"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:2
 msgid "Get your game on!"
-msgstr ""
+msgstr "Kezdődjön a játék!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:7
@@ -200,16 +244,23 @@ msgid ""
 "ups, racers, flight simulators, puzzlers, turn based strategy and first "
 "person shooters."
 msgstr ""
+"Az Ubuntu MATE nem csak a munkáról szól, hanem játékra is kiváló! A "
+"<strong>Steam</strong> és a <strong>Minecraft</strong> is megtalálható a "
+"<strong>Szoftverbutikban</strong>. Kiválasztottuk a legjobb nyílt forráskódú "
+"játékokat is, és a Szoftverbutikot platformjátékokkal, lövöldözős "
+"játékokkal, versenyjátékokkal, repülésszimulátorokkal, fejtörőkkel, körökre "
+"osztott stratégiai játékokkal és első személyű lövöldözős játékokkal "
+"töltöttük fel."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:19
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/07_games.html:23
 msgid "Minecraft"
-msgstr ""
+msgstr "Minecraft"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:2
@@ -225,6 +276,12 @@ msgid ""
 "wherever you go. If you prefer streaming services you'll find "
 "<strong>Spotify</strong> in the <strong>Software Boutique</strong>."
 msgstr ""
+"Az Ubuntu MATE a csodálatos Rhythmbox zenelejátszóval érkezik. A fejlett "
+"lejátszási lehetőségekkel egyszerűen sorba állíthatja a tökéletes dalokat. "
+"Ezenkívül nagyszerűen működik CD-kkel és hordozható zenelejátszókkal, így "
+"bárhol élvezheti az összes zenéjét, akárhova is megy. Ha a közvetítő "
+"szolgáltatásokat részesíti előnyben, a <strong>Spotify</strong> is "
+"megtalálható a <strong>Szoftverbutikban</strong>."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:19
@@ -235,7 +292,7 @@ msgstr "Rhythmbox zenelejátszó"
 #: slideshows/oem-config-ubuntu-mate/slides/08_music.html:23
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:20
 msgid "Celluloid"
-msgstr ""
+msgstr "Celluloid"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:2
@@ -252,6 +309,13 @@ msgid ""
 "<strong>Luminance HDR</strong> that offer virtual lightable and darkroom for "
 "RAW and HDR image workflows."
 msgstr ""
+"A Shotwell egy praktikus fényképkezelő, amely mindenféle eszközt támogat. "
+"Csatlakoztasson egy fényképezőgépet vagy egy telefont a fényképek "
+"átviteléhez, majd könnyedén megoszthatja és biztonságban tarthatja azokat. A "
+"digitális fotózás szerelmesei és a profik számára a Szoftverbutik "
+"tartalmazza a <strong>Darktable</strong> és a <strong>Luminance HDR</strong> "
+"szoftvereket, amelyek virtuális megvilágítót és sötétkamrát kínálnak a RAW "
+"és HDR képek munkafolyamataihoz."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/09_photos.html:20
@@ -266,7 +330,7 @@ msgstr "GIMP képszerkesztő"
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:2
 msgid "Grab some popcorn!"
-msgstr ""
+msgstr "Vegyen magához pattogatott kukoricát!"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:7
@@ -276,6 +340,10 @@ msgid ""
 "content from your favourite streaming services such as <strong>Netflix</"
 "strong> and <strong>YouTube</strong>."
 msgstr ""
+"Az Ubuntu MATE előre telepített <strong>Firefox</strong> webböngészővel "
+"érkezik, és a <strong>Google Chrome</strong> is megtalálható a "
+"Szoftverbutikban, így megtekintheti kedvenc közvetítő szolgáltatásainak, "
+"például a <strong>Netflix</strong> és a <strong>YouTube</strong> tartalmát."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-mate/slides/10_video.html:12
@@ -283,6 +351,8 @@ msgid ""
 "With <strong>Celluloid</strong> installed by default you can watch all your "
 "local video with ease."
 msgstr ""
+"Az alapértelmezetten telepített <strong>Celluloid</strong> segítségével "
+"egyszerűen megnézheti az összes helyi videót."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:2
@@ -296,6 +366,10 @@ msgid ""
 "documents, spreadsheets and presentations.  Compatible with Microsoft Office "
 "file formats, it gives you all the features you need, without the price tag."
 msgstr ""
+"A LibreOffice egy ingyenes irodai programcsomag, amely mindent tartalmaz, "
+"ami dokumentumok, táblázatok és prezentációk készítéséhez szükséges. "
+"Kompatibilis a Microsoft Office fájlformátumokkal, így minden szükséges "
+"funkciót biztosít, de árcédula nélkül."
 
 #. type: Content of: <div><div><div><ul><li><p>
 #: slideshows/oem-config-ubuntu-mate/slides/11_office.html:17
@@ -325,11 +399,11 @@ msgid ""
 "language, colour scheme and text size, Ubuntu MATE makes computing easy - "
 "whoever and wherever you are."
 msgstr ""
-"Az Ubuntu MATE filozófiájának középpontjában az a hit áll, hogy a "
-"számítástechnika mindenkié. Fejlett akadálymentesítési eszközökkel és a "
-"nyelv, színséma és a szövegméret megváltoztatásának lehetőségével az Ubuntu "
-"MATE egyszerűvé teszi a számítástechnikát - bárki is legyen Ön, bárhol is "
-"legyen."
+"Az Ubuntu MATE filozófiájának középpontjában az a meggyőződés áll, hogy a "
+"számítástechnika mindenkié. A fejlett akadálymentesítési eszközökkel, "
+"valamint a nyelv, a színek és a szövegméret megváltoztatásának "
+"lehetőségeivel az Ubuntu MATE egyszerűvé teszi a számítástechnikát – bárki "
+"és bárhol is legyen."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/12_accessibility.html:13
@@ -359,7 +433,7 @@ msgstr "Csatlakozzon a közösséghez"
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:7
 msgid "Discussion & Support"
-msgstr ""
+msgstr "Beszélgetés és támogatás"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:11
@@ -367,6 +441,8 @@ msgid ""
 "<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
 "Forum</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.community\" class=\"caption\">Ubuntu MATE "
+"fórum</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:15
@@ -374,6 +450,8 @@ msgid ""
 "<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Live "
 "Chat</a>"
 msgstr ""
+"<a href=\"https://discord.com/invite/T8NDH5RaEj/\" class=\"caption\">Élő "
+"csevegés</a>"
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:18
@@ -406,6 +484,7 @@ msgstr "Fejlesztés"
 msgid ""
 "<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Code</a>"
 msgstr ""
+"<a href=\"https://ubuntu-mate.org/development/\" class=\"caption\">Kód</a>"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/oem-config-ubuntu-mate/slides/13_community.html:37
