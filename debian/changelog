@@ -1,8 +1,8 @@
-ubiquity-slideshow-ubuntu (192) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (192) mantic; urgency=medium
 
   * Update for the new mantic artwork
 
- -- Sebastien Bacher <seb128@ubuntu.com>  Wed, 06 Sep 2023 21:12:26 +0200
+ -- Sebastien Bacher <seb128@ubuntu.com>  Wed, 06 Sep 2023 21:16:23 +0200
 
 ubiquity-slideshow-ubuntu (191) lunar; urgency=medium
 
