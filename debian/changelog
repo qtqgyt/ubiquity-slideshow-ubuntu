@@ -1,4 +1,4 @@
-ubiquity-slideshow-ubuntu (193) UNRELEASED; urgency=medium
+ubiquity-slideshow-ubuntu (193) mantic; urgency=medium
 
   * Tweak to the new wallpaper to not conflict with the content
 
