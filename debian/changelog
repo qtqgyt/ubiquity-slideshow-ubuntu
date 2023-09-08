@@ -1,3 +1,10 @@
+ubiquity-slideshow-ubuntu (194) UNRELEASED; urgency=medium
+
+  * Update Edubuntu slideshow for 23.10
+  * Major update to Ubuntu Studio content
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Fri, 08 Sep 2023 12:43:10 -0700
+
 ubiquity-slideshow-ubuntu (193) mantic; urgency=medium
 
   * Tweak to the new wallpaper to not conflict with the content
