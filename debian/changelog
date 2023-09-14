@@ -1,3 +1,13 @@
+ubiquity-slideshow-ubuntu (195) UNRELEASED; urgency=medium
+
+  * Add missing icons for Ubuntu Studio
+    - Pipewire
+    - digiKam
+    - Krita
+    - OBS Studio
+
+ -- Erich Eickmeyer <eeickmeyer@ubuntu.com>  Thu, 14 Sep 2023 09:08:18 -0700
+
 ubiquity-slideshow-ubuntu (194) mantic; urgency=medium
 
   * Update Edubuntu slideshow for 23.10
