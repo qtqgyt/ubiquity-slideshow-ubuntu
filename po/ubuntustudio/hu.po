@@ -1,22 +1,24 @@
-# Hungarian translation for ubiquity-slideshow-ubuntu
+# Hungarian translation for Ubiquity Slideshow.
 # Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+# This file is distributed under the same license as the ubiquity-slideshow-ubuntustudio package.
 #
+# Balázs Úr <ur.balazs at fsf dot hu>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: ubiquity-slideshow-ubuntustudio\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/ubuntu/+source/ubiquity-"
+"slideshow-ubuntu\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2016-03-26 14:36+0000\n"
-"Last-Translator: Richard Somlói <ricsipontaz@gmail.com>\n"
-"Language-Team: Hungarian <hu@li.org>\n"
+"PO-Revision-Date: 2023-09-20 16:17+0000\n"
+"Last-Translator: Balázs Úr <Unknown>\n"
+"Language-Team: Hungarian <https://translations.launchpad.net/ubuntu/+source/"
+"ubiquity-slideshow-ubuntu>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2023-04-13 18:16+0000\n"
-"X-Generator: Launchpad (build 87e01a184063d9dc53acb2343d6484f5546064fd)\n"
+"X-Launchpad-Export-Date: 2023-10-04 09:56+0000\n"
+"X-Generator: Launchpad (build bd6cfd0cfc024dbe1dcd7d5d91165fb4f6a6c596)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/00_welcome.html:2
@@ -26,7 +28,9 @@ msgstr "Üdvözöljük!"
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:7
 msgid "Thanks for choosing Ubuntu Studio, and welcome to the installation."
-msgstr "Köszönjük, hogy az Ubuntu Studio-t választotta."
+msgstr ""
+"Köszönjük, hogy az Ubuntu Studio változatot választotta, és üdvözöljük a "
+"telepítésben."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/00_welcome.html:8
@@ -34,11 +38,13 @@ msgid ""
 "In this slideshow we will present a few features which make Ubuntu Studio "
 "the perfect companion for artists of all kinds."
 msgstr ""
+"Ebben a diavetítésben bemutatunk néhány olyan funkciót, amelyek az Ubuntu "
+"Studio változatot tökéletes társsá teszik mindenféle művész számára."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/01_audio.html:2
 msgid "Let the world hear you"
-msgstr "Ismerje meg a világ"
+msgstr "Hallja meg a világ Önt"
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/01_audio.html:7
@@ -46,9 +52,9 @@ msgid ""
 "From recording an album, podcast editing, or scoring a film, Ubuntu Studio "
 "includes applications and documented work flows to support your audio needs."
 msgstr ""
-"Az Ubuntu Studio tartalmazza mindazon alkalmazásokat és munkafolyamat-"
-"dokumentációkat, amelyek kielégítik minden audioigényét, legyen szó album "
-"felvételéről, podcast szerkesztéséről, vagy akár filmek osztályzásáról."
+"Egy album felvételétől a podcast szerkesztésén keresztül a filmzene "
+"szerkesztéséig, az Ubuntu Studio olyan alkalmazásokat és dokumentált "
+"munkafolyamatokat tartalmaz, amelyek támogatják a hangtechnikai igényeit."
 
 #. type: Content of: <div><div><div><h2>
 #: slideshows/ubuntustudio/slides/01_audio.html:9
@@ -61,12 +67,12 @@ msgstr "Tartalmazott szoftverek"
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/01_audio.html:11
 msgid "Ardour DAW"
-msgstr "Ardour digitális audio-munkaállomás (DAW)"
+msgstr "Ardour digitálishang-munkaállomás"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/01_audio.html:12
 msgid "JACK Sound Server"
-msgstr "JACK hangszerver"
+msgstr "JACK hangkiszolgáló"
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/01_audio.html:13
@@ -85,8 +91,9 @@ msgid ""
 "production effects, Ubuntu Studio can help you realize your videographic "
 "vision."
 msgstr ""
-"Egyszerű házi videótól az egész estés filmig, a kompozíciós és utómunka "
-"hatásokkal az Ubuntu Studio segít kielégíteni videofeldolgozási igényeit."
+"Az egyszerű otthoni filmektől a kompozíciós és utómunkálatokkal kiegészített "
+"nagyjátékfilmekig az Ubuntu Studio segít Önnek megvalósítani "
+"videofeldolgozási elképzeléseit."
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/02_video.html:11
@@ -101,7 +108,7 @@ msgstr "Kdenlive videoszerkesztő"
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/02_video.html:13
 msgid "Open Shot Video Editor"
-msgstr "Open Shot videó szerkesztő"
+msgstr "Open Shot videoszerkesztő"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/03_graphics.html:2
@@ -149,8 +156,9 @@ msgid ""
 "From casual hobbyist to professional, handy and powerful applications are "
 "included to help you manage your photos and process them."
 msgstr ""
-"Legyen akár alkalmi hobbista, vagy profi fotós, praktikus és nagy "
-"teljesítményű alkalmazások segítik a képei kezelésében és feldolgozásában."
+"Legyen akár alkalmi hobbista vagy profi fotós, praktikus és nagy "
+"teljesítményű alkalmazások segítik a fényképei kezelésében és "
+"feldolgozásában."
 
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/04_photography.html:11
@@ -160,7 +168,7 @@ msgstr "Darktable fényképszerkesztő"
 #. type: Content of: <div><div><div><ul><li>
 #: slideshows/ubuntustudio/slides/04_photography.html:12
 msgid "RawTherapee Raw Image Processor"
-msgstr "RawTherapee nyerskép feldolgozó"
+msgstr "RawTherapee nyerskép-feldolgozó"
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/05_software.html:2
@@ -182,8 +190,9 @@ msgid ""
 "However, if you want additional applications not installed by default you "
 "can choose from the tens of thousands in the Ubuntu repositories."
 msgstr ""
-"Amennyiben olyan alkalmazásokat szeretne, amelyek nincsenek alapesetben "
-"telepítve, kedvére válogathat alkalmazások tízezreiből az Ubuntu tárolókból."
+"Azonban ha további, alapértelmezetten nem telepített alkalmazásokat "
+"szeretne, akkor az Ubuntu tárolóiban található több tízezer alkalmazás közül "
+"választhat."
 
 #. type: Content of: <div><h1>
 #: slideshows/ubuntustudio/slides/06_support.html:2
@@ -198,10 +207,10 @@ msgid ""
 "com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio users mailing list</"
 "a>."
 msgstr ""
-"Köszönjük, hogy velünk tartott. Örömmel hallanánk a személyes tapasztalatait "
-"az Ubuntu Studioról. Megoszthatja ezeket az <a href=\"https://lists.ubuntu."
-"com/mailman/listinfo/Ubuntu-Studio-users\">Ubuntu Studio felhasználók "
-"levelezési listáján</a>."
+"Köszönjük, hogy időt szakított ránk. Szívesen hallanánk az Ubuntu Studio "
+"változattal kapcsolatos tapasztalatairól. Megoszthatja ezeket az <a "
+"href=\"https://lists.ubuntu.com/mailman/listinfo/Ubuntu-Studio-"
+"users\">Ubuntu Studio felhasználók levelezőlistáján</a>."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:8
@@ -210,8 +219,12 @@ msgid ""
 "website</a> to find the latest news about Ubuntu Studio, find support "
 "options, connect with the community, and find out how to get involved."
 msgstr ""
+"Mindenképpen látogasson el az <a href=\"http://ubuntustudio.org\">Ubuntu "
+"Studio weboldalára</a>, ahol megtalálhatja az Ubuntu Studio változattal "
+"kapcsolatos legfrissebb híreket, a támogatási lehetőségeket, kapcsolatot "
+"teremthet a közösséggel, és megtudhatja, hogyan vehet részt a fejlesztésben."
 
 #. type: Content of: <div><div><p>
 #: slideshows/ubuntustudio/slides/06_support.html:9
 msgid "Enjoy!"
-msgstr ""
+msgstr "Jó szórakozást!"

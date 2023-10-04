@@ -1,3 +1,9 @@
+ubiquity-slideshow-ubuntu (195) UNRELEASED; urgency=medium
+
+  * Update Ubuntu translations from Launchpad.
+
+ -- Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>  Wed, 04 Oct 2023 12:06:24 +0200
+
 ubiquity-slideshow-ubuntu (195) mantic; urgency=medium
 
   * Add missing icons for Ubuntu Studio

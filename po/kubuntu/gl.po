@@ -8,15 +8,15 @@ msgstr ""
 "Project-Id-Version: ubiquity-slideshow-ubuntu\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2020-03-03 21:49+0000\n"
+"PO-Revision-Date: 2023-09-17 20:15+0000\n"
 "Last-Translator: Xosé <Unknown>\n"
 "Language-Team: Galician <gl@li.org>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2023-04-13 18:16+0000\n"
-"X-Generator: Launchpad (build 87e01a184063d9dc53acb2343d6484f5546064fd)\n"
+"X-Launchpad-Export-Date: 2023-10-04 09:56+0000\n"
+"X-Generator: Launchpad (build bd6cfd0cfc024dbe1dcd7d5d91165fb4f6a6c596)\n"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/00_Welcome.html:3
@@ -125,12 +125,12 @@ msgstr "Xestor de ficheiros"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:35
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE Connect"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:36
 msgid "Mobile Connect"
-msgstr ""
+msgstr "Conexión móbil"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:40
@@ -145,12 +145,12 @@ msgstr "Reprodutor multimedia"
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:45
 msgid "Spectacle"
-msgstr ""
+msgstr "Spectacle"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:46
 msgid "Screenshot Tool"
-msgstr ""
+msgstr "Ferramenta de capturas de pantalla"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/01_Applications.html:50
@@ -166,173 +166,173 @@ msgstr "Centro de software"
 #: slideshows/kubuntu/slides/02_QT.html:3
 #: slideshows/kubuntu/slides/03_GTK.html:3
 msgid "Looking for more awesome applications?"
-msgstr ""
+msgstr "Busca máis aplicacións asombrosas?"
 
 #. type: Content of: <div><div><p>
 #: slideshows/kubuntu/slides/02_QT.html:7
 #: slideshows/kubuntu/slides/03_GTK.html:7
 msgid "All of these applications are installable from Discover."
-msgstr ""
+msgstr "Todas estas aplicacións poden ser instaladas desde Discover."
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:12
 msgid "Kdenlive"
-msgstr ""
+msgstr "Kdenlive"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:13
 msgid "Video Editor"
-msgstr ""
+msgstr "Editor de vídeo"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:17
 msgid "digiKam"
-msgstr ""
+msgstr "digiKam"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:18
 msgid "Photo Manager"
-msgstr ""
+msgstr "Xestor de fotos"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:22
 msgid "Krita"
-msgstr ""
+msgstr "Krita"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:23
 msgid "Digital Printing"
-msgstr ""
+msgstr "Impresión dixital"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:27
 msgid "Kdevelop"
-msgstr ""
+msgstr "Kdevelop"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:28
 msgid "Development IDE"
-msgstr ""
+msgstr "IDE de desenvolvemento"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:34
 msgid "GCompris"
-msgstr ""
+msgstr "GCompris"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:35
 msgid "Educational Suite"
-msgstr ""
+msgstr "Suite educativa"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:39
 msgid "Minuet"
-msgstr ""
+msgstr "Minuet"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:40
 msgid "Music Education"
-msgstr ""
+msgstr "Educación musical"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:44
 msgid "Peruse"
-msgstr ""
+msgstr "Peruse"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:45
 msgid "Comic Reader"
-msgstr ""
+msgstr "Lector de bandas deseñadas"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:49
 msgid "Labplot"
-msgstr ""
+msgstr "Labplot"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/02_QT.html:50
 msgid "Data Visualization"
-msgstr ""
+msgstr "Visualización de datos"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:12
 msgid "Blender"
-msgstr ""
+msgstr "Blender"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:13
 msgid "3D Graphics"
-msgstr ""
+msgstr "Gráficos en 3D"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:17
 msgid "GIMP"
-msgstr ""
+msgstr "GIMP"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:18
 msgid "Graphics Editor"
-msgstr ""
+msgstr "Editor gráfico"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:22
 msgid "Inkscape"
-msgstr ""
+msgstr "Inkscape"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:23
 msgid "SVG Editor"
-msgstr ""
+msgstr "Editor de SVG"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:27
 msgid "Darktable"
-msgstr ""
+msgstr "Darktable"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:28
 msgid "RAW Editor"
-msgstr ""
+msgstr "Editor de RAW"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:34
 msgid "Steam"
-msgstr ""
+msgstr "Steam"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:35
 msgid "Gaming Platform"
-msgstr ""
+msgstr "Plataforma de xogos"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:39
 msgid "OBS"
-msgstr ""
+msgstr "OBS"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:40
 msgid "Broadcasting Software"
-msgstr ""
+msgstr "Software de videodifusión"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:44
 msgid "Thunderbird"
-msgstr ""
+msgstr "Thunderbird"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:45
 msgid "Email Client"
-msgstr ""
+msgstr "Cliente de correo"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:49
 msgid "VirtualBox"
-msgstr ""
+msgstr "VirtualBox"
 
 #. type: Content of: <div><div><table><tr><td><div>
 #: slideshows/kubuntu/slides/03_GTK.html:50
 msgid "Virtualization Software"
-msgstr ""
+msgstr "Software de visualización"
 
 #. type: Content of: <div><div><h1>
 #: slideshows/kubuntu/slides/04_Get-Help.html:3

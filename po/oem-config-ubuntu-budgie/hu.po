@@ -1,27 +1,29 @@
-# Hungarian translation for ubiquity-slideshow-ubuntu
+# Hungarian translation for Ubiquity Slideshow.
 # Copyright (c) 2021 Rosetta Contributors and Canonical Ltd 2021
-# This file is distributed under the same license as the ubiquity-slideshow-ubuntu package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# This file is distributed under the same license as the slideshow-oem-config-ubuntu-budgie package.
 #
+# Balázs Úr <ur.balazs at fsf dot hu>, 2023.
 msgid ""
 msgstr ""
-"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"Project-Id-Version: slideshow-oem-config-ubuntu-budgie\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/ubuntu/+source/ubiquity-"
+"slideshow-ubuntu\n"
 "POT-Creation-Date: 2022-03-28 22:49+0200\n"
-"PO-Revision-Date: 2021-02-08 18:51+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: Hungarian <hu@li.org>\n"
+"PO-Revision-Date: 2023-09-20 16:31+0000\n"
+"Last-Translator: Balázs Úr <Unknown>\n"
+"Language-Team: Hungarian <https://translations.launchpad.net/ubuntu/+source/"
+"ubiquity-slideshow-ubuntu>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Launchpad-Export-Date: 2023-04-13 18:16+0000\n"
-"X-Generator: Launchpad (build 87e01a184063d9dc53acb2343d6484f5546064fd)\n"
+"X-Launchpad-Export-Date: 2023-10-04 09:56+0000\n"
+"X-Generator: Launchpad (build bd6cfd0cfc024dbe1dcd7d5d91165fb4f6a6c596)\n"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/01_welcome.html:2
 msgid "Welcome!"
-msgstr ""
+msgstr "Üdvözöljük!"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/01_welcome.html:8
@@ -29,6 +31,8 @@ msgid ""
 "<strong>Ubuntu Budgie</strong> is a community driven Ubuntu flavor featuring "
 "the <strong>Budgie</strong> Desktop Environment"
 msgstr ""
+"Az <strong>Ubuntu Budgie</strong> egy közösség által irányított Ubuntu "
+"változat, amely a <strong>Budgie</strong> asztali környezetet tartalmazza"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/01_welcome.html:9
@@ -36,6 +40,8 @@ msgid ""
 "Being designed with the modern user in mind, <strong>Budgie</strong> focuses "
 "on simplicity and elegance"
 msgstr ""
+"A modern felhasználóra gondolva tervezett <strong>Budgie</strong> az "
+"egyszerűségre és az eleganciára összpontosít"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/01_welcome.html:10
@@ -43,11 +49,13 @@ msgid ""
 "<strong>Budgie</strong> tightly integrates with the GNOME stack, employing "
 "underlying technologies to offer an alternative desktop experience"
 msgstr ""
+"A <strong>Budgie</strong> szorosan integrálódik a GNOME környezetébe, és a "
+"mögöttes technológiákat alkalmazva alternatív asztali élményt kínál"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:2
 msgid "Simple and easy to use"
-msgstr ""
+msgstr "Egyszerű és könnyen használható"
 
 #. type: Content of: <div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:7
@@ -55,6 +63,8 @@ msgid ""
 "<strong>Budgie Menu</strong> provides quick access to your apps, offering "
 "both category and compact views"
 msgstr ""
+"A <strong>Budgie menü</strong> gyors hozzáférést biztosít az "
+"alkalmazásokhoz, kategória és kompakt nézetet is kínálva"
 
 #. type: Content of: <div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:8
@@ -62,6 +72,8 @@ msgid ""
 "<strong>Raven</strong> side panel lets you access notifications, play music "
 "and sound control all in one place"
 msgstr ""
+"A <strong>Raven</strong> oldalpanel egy helyen teszi lehetővé az értesítések "
+"elérését, a zenelejátszást és a hangvezérlést"
 
 #. type: Content of: <div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:9
@@ -69,6 +81,9 @@ msgid ""
 "<strong>Budgie Desktop Settings</strong> lets you further customize your "
 "desktop; panels, fonts, themes, icons and autostart apps"
 msgstr ""
+"A <strong>Budgie asztali beállítások</strong> lehetővé teszik az asztal "
+"további személyre szabását: panelek, betűkészletek, témák, ikonok és "
+"automatikusan induló alkalmazások"
 
 #. type: Content of: <div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/02_desktop.html:10
@@ -76,11 +91,13 @@ msgid ""
 "<strong>Budgie</strong> gets out of your way and provides a clutter free "
 "desktop experience"
 msgstr ""
+"A <strong>Budgie</strong> félreáll az útból, és rendetlenségmentes asztali "
+"élményt nyújt"
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/03_browse.html:2
 msgid "Make the most of the web"
-msgstr ""
+msgstr "Hozza ki a legtöbbet a webből"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/03_browse.html:8
@@ -90,11 +107,15 @@ msgid ""
 "advanced security, powerful personalization and the cutting edge, all that "
 "is in your hands."
 msgstr ""
+"A már telepített <strong>Firefox</strong> segítségével az Ubuntu Budgie "
+"mindent tartalmaz, amire a web böngészéséhez szüksége van. Egyszerű "
+"böngészés, nagy teljesítmény, fokozott biztonság, erőteljes személyre "
+"szabási lehetőségek és az élvonalbeli megoldások, mindez az Ön kezében."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/04_office.html:2
 msgid "Your office on your machine"
-msgstr ""
+msgstr "Az irodája a számítógépén"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/04_office.html:8
@@ -104,11 +125,15 @@ msgid ""
 "productivity suite shipped by default. Make your day-to-day tasks more easy "
 "and fun."
 msgstr ""
+"Hozzon létre professzionális dokumentumokat, táblázatokat, prezentációkat, "
+"rajzokat és egyebeket. A <strong>LibreOffice</strong> egy átfogó, "
+"professzionális minőségű, alapértelmezetten szállított produktivitási "
+"programcsomag. Könnyebbé és szórakoztatóbbá teszi a mindennapi feladatokat."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/05_media.html:2
 msgid "Enjoy your music and videos"
-msgstr ""
+msgstr "Élvezze a zenéit és videóit"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/05_media.html:8
@@ -116,6 +141,8 @@ msgid ""
 "<strong>Rhythmbox</strong> lets you organize your music and listen to "
 "Internet radio, podcasts, and more."
 msgstr ""
+"A <strong>Rhythmbox</strong> segítségével rendszerezheti a zenéit, "
+"internetes rádiót, podcastokat és egyebeket hallgathat."
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/05_media.html:10
@@ -123,11 +150,13 @@ msgid ""
 "<strong>GNOME-MPV</strong> allows you to easily watch videos from your "
 "computer or DVD."
 msgstr ""
+"A <strong>GNOME-MPV</strong> lehetővé teszi, hogy egyszerűen nézzen videókat "
+"a számítógépéről vagy DVD-ről."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/06_photos.html:2
 msgid "Have fun with your photos"
-msgstr ""
+msgstr "Szórakozzon jól a fényképekkel"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/06_photos.html:8
@@ -137,16 +166,20 @@ msgid ""
 "and view your pictures. And you can share your favorite snaps on all popular "
 "photo sites and social networks."
 msgstr ""
+"Belefáradt a fényképei rendszerezéséhez megfelelő alkalmazás keresésébe? A "
+"<strong>gThumb</strong> segítségével gyorsan és egyszerűen importálhatja, "
+"rendszerezheti, szerkesztheti és megtekintheti a képeit. Kedvenc pillanatait "
+"pedig megoszthatja az összes népszerű fényképoldalon és közösségi hálózaton."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/07_software.html:2
 msgid "Find even more software"
-msgstr ""
+msgstr "Fedezzen fel még több szoftvert"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/07_software.html:8
 msgid "<strong>Say Goodbye to searching the web for a software</strong>"
-msgstr ""
+msgstr "<strong>Mondjon búcsút a szoftverek internetes keresésének</strong>"
 
 #. type: Content of: <div><div><div><p>
 #: slideshows/oem-config-ubuntu-budgie/slides/07_software.html:10
@@ -156,16 +189,23 @@ msgid ""
 "You have access to thousands of free and commercial applications. Installing "
 "anything is just a couple of clicks away from you."
 msgstr ""
+"A <strong>GNOME Szoftver</strong> segítségével egyszerűen megtalálhatja és "
+"telepítheti a szoftvereket. Az értékelések és vélemények alapján a "
+"szoftverek népszerűség szerinti rangsorolásra kerülnek. Több ezer ingyenes "
+"és kereskedelmi alkalmazáshoz férhet hozzá. Bárminek a telepítése csak "
+"néhány kattintásnyira van Öntől."
 
 #. type: Content of: <div><h1>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:2
 msgid "Help and support"
-msgstr ""
+msgstr "Segítség és támogatás"
 
 #. type: Content of: <div><div><div>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:8
 msgid "Thanks for choosing and installing <strong>Ubuntu Budgie</strong>!"
 msgstr ""
+"Köszönjük, hogy az <strong>Ubuntu Budgie</strong> változatot választotta és "
+"telepítette!"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:9
@@ -173,6 +213,8 @@ msgid ""
 "Get help and support with our Discourse community: <a href=\"https://"
 "discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 msgstr ""
+"Kérjen segítséget és támogatást a Discourse közösségtől: <a href=\"https://"
+"discourse.ubuntubudgie.org\">discourse.ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div><li>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:10
@@ -180,8 +222,11 @@ msgid ""
 "For more information and pointers to other useful resources, please visit "
 "our homepage: <a href=\"https://ubuntubudgie.org\">ubuntubudgie.org</a>"
 msgstr ""
+"További információkért és más hasznos erőforrásokra mutató hivatkozásokért "
+"látogasson el a honlapunkra: <a href=\"https://ubuntubudgie."
+"org\">ubuntubudgie.org</a>"
 
 #. type: Content of: <div><div><div>
 #: slideshows/oem-config-ubuntu-budgie/slides/08_gethelp.html:11
 msgid "Enjoy and have fun! 😃"
-msgstr ""
+msgstr "Élvezze és jó szórakozást! 😃"

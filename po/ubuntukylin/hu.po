@@ -1,0 +1,115 @@
+# Hungarian translation for Ubiquity Slideshow.
+# Copyright (c) 2023 Rosetta Contributors and Canonical Ltd 2023
+# This file is distributed under the same license as the slideshow-ubuntukylin package.
+#
+# Balázs Úr <ur.balazs at fsf dot hu>, 2023.
+msgid ""
+msgstr ""
+"Project-Id-Version: slideshow-ubuntukylin\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/ubuntu/+source/ubiquity-"
+"slideshow-ubuntu\n"
+"POT-Creation-Date: 2022-04-08 14:01+0200\n"
+"PO-Revision-Date: 2023-09-20 09:54+0000\n"
+"Last-Translator: Balázs Úr <Unknown>\n"
+"Language-Team: Hungarian <https://translations.launchpad.net/ubuntu/+source/"
+"ubiquity-slideshow-ubuntu>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2023-10-04 09:56+0000\n"
+"X-Generator: Launchpad (build bd6cfd0cfc024dbe1dcd7d5d91165fb4f6a6c596)\n"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/control-center.html:5
+msgid "UKUI Control Center"
+msgstr "UKUI vezérlőközpont"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/control-center.html:7
+msgid ""
+"More accurate classification, more convenient operation, and more concise "
+"interface"
+msgstr "Pontosabb osztályozás, kényelmesebb működés és tömörebb felület"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/hardware.html:4
+msgid "Mainstream Hardware Platforms"
+msgstr "Alapvető hardverplatformok"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/hardware.html:5
+msgid "Supporting mainstream hardware platforms including Intel, AMD, ARM"
+msgstr ""
+"Az alapvető hardverplatformok támogatása, beleértve az Intel, AMD és ARM "
+"platformokat is"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/long-support.html:4
+msgid "Long-term Online Support"
+msgstr "Hosszú távú internetes támogatás"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/long-support.html:6
+msgid "Free system support and updates for up to 3 years"
+msgstr "Ingyenes rendszertámogatás és frissítések akár 3 éven keresztül"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/newdesktop-environment.html:5
+msgid "New Desktop Environment"
+msgstr "Új asztali környezet"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/newdesktop-environment.html:7
+msgid "Brand new design, more concise and easy to use"
+msgstr "Vadonatúj kialakítás, tömörebb és könnyebben használható"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/panel.html:5
+msgid "UKUI Panel"
+msgstr "UKUI panel"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/panel.html:7
+msgid "Quick app preview, easy notification management, unified plugin style"
+msgstr ""
+"Gyors alkalmazás-előnézet, egyszerű értesítéskezelés, egységes "
+"bővítménystílus"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/rich-applications.html:5
+msgid "Rich Featured Applications"
+msgstr "Gazdag funkciójú alkalmazások"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/rich-applications.html:7
+msgid "Kylin series applications installed, pursuing ultimate user experience"
+msgstr ""
+"Kylin sorozatú alkalmazások telepítve a tökéletes felhasználói élményre "
+"törekedve"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/stablekernel.html:5
+msgid "Latest Stable Kernel"
+msgstr "Legújabb stabil rendszermag"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/stablekernel.html:7
+msgid "Linux 5.15 LTS kernel inside, covering latest cutting-edge technologies"
+msgstr ""
+"Linux 5.15 LTS rendszermag a motorháztető alatt, amely a legújabb, "
+"legmodernebb technológiákat tartalmazza"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/startmenu.html:5
+msgid "UKUI Start Menu"
+msgstr "UKUI indítómenü"
+
+#. type: Content of: <div><div><h3>
+#: slideshows/ubuntukylin/slides/startmenu.html:7
+msgid ""
+"Amazing upgrades with noval dark theme, full screen browsing and application "
+"classification"
+msgstr ""
+"Csodálatos frissítések a noval sötét témával, teljes képernyős böngészés és "
+"alkalmazásosztályozás"
